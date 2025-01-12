@@ -1,12 +1,10 @@
 # Avatars
 
-When I created [my account](https://github.com/impurify) on Microsoft Github, I put effort into creating the perfect avatar.  Then, I realized that:
+(This space will soon be filled.)
 
-1. Github deleted the metadata that I added with `exiftool`.  Casual plagiarism of images is rampant online.  It is unacceptable to me for my avatar to be published without metadata.  (TODO: File a ticket with Github about this.)  I will change my avatar; however, I want a handy place to archive my old avatar, which I will elsewhere as a personal trademark.
+## Proprietary
 
-2. I should change my Github avatar anyway, for political reasons.  The new one will be my public domain respin of the iconic 1990s vintage EFF Blue Ribbon.  I will offer several options, and encourage others to use them.
-
-This needs its own `git` repository!
+Stuff I created for my own use is in directory [`proprietary`](/proprietary/README.md).
 
 ## Author
 
