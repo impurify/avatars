@@ -18,4 +18,4 @@ Github stripped the metadata that I’d intentionally added with `exiftool`.  Ca
 
 I now prefer the losslessly converted progressive JPEG version.  The file size is smaller, and it is better for this use case.
 
-I should change my Github avatar anyway, for political reasons.  However, I want a handy place to archive my old avatar, which I will elsewhere as a personal trademark.
+I have changed my Github avatar anyway, for political reasons.  However, this is a handy place to archive my old avatar, which I will elsewhere as a personal trademark.
