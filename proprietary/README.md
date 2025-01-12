@@ -16,6 +16,6 @@ The file [`no-photo.jpg`](https://raw.githubusercontent.com/impurify/avatars/mas
 
 Github stripped the metadata that I’d intentionally added with `exiftool`.  Casual plagiarism of images is rampant online; it is unacceptable to me for my avatar to be published without metadata.  (TODO: File a ticket with Github about this.)  Github also significantly reduced the JPEG quality.
 
-I now prefer the losslessly converted [progressive JPEG version](https://raw.githubusercontent.com/impurify/avatars/master/proprietary/no-photo.jpg).  The file size is smaller, and it is better for this use case.
+I now prefer the losslessly converted [progressive JPEG version](https://raw.githubusercontent.com/impurify/avatars/master/proprietary/no-photo-progressive.jpg).  The file size is smaller, and it is better for this use case.
 
 I have changed my Github avatar anyway, for political reasons.  However, this is a handy place to archive my old avatar, which I will elsewhere as a personal trademark.
