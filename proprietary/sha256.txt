@@ -1,1 +1,2 @@
 8a788dc5f0dab24691c7f3c5b15e57b6f7b9baca1f2ee318648109259b8549ba  no-photo.jpg
+22d2b104c73170fa8529d46789de45a7d7ff6d407d2ef224ff775c6ce858a81b  no-photo-progressive.jpg
